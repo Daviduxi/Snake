@@ -10,11 +10,11 @@
 >VSC has a few problems with running C programs, so at university we used the Pelles C program.
 
 >[!TIP]
->I recommend using a similar application, or if possible, the same one. To avoid file or library corruption,
+>I recommend using a similar application, or if possible, the same one. To avoid file or library corruption.
 
 ---
 
-<img align="right" src="https://art.pixilart.com/8bae488c7808f9e.gif" width = 300px>
+<img align="right" src="https://art.pixilart.com/8bae488c7808f9e.gif" width = 400px>
 <h3 align="left"> ▶ How to play! 🎮🕹️</h3>
 
 - Move the snake with the arrows (←↑↓→)
